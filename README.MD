@@ -62,7 +62,7 @@
 
 ###
 
- ![Snake animation](https://github.com/MrGHOStLK/MrGHOStLK/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MrGHOStLK/MrGHOStLK/blob/main/.github/workflows/snake.svg)
 
 ###
 
