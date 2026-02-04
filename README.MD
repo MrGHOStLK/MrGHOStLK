@@ -1,14 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=2DD4BF"  />
-</div>
-
-###
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h2 align="left">👋 Hey there! I’m Maleesha Hirumal 😎</h2>
+<h1 align="left">👋 Hey there! I’m Maleesha Hirumal 😎</h1>
 
 ###
 
@@ -16,11 +6,11 @@
 
 ###
 
-<p align="left">🎓 Cybersecurity Student at SLTC Research University<br>🔐 Passionate about security, technology & problem-solving<br><br>💻 Tech Stack & Interests<br>🛡️ Cybersecurity & ethical hacking<br>☕ Java | 🗄️ Databases | 🧠 IT concepts<br>🧩 Building & learning through projects<br><br>🎬 Editing<br>🎨 Turning ideas into clean, creative visuals ✂️✨<br><br>🎮 Gamer at heart<br>🕹️ Love exploring game worlds, mechanics & tech behind games<br><br>🚀 Mindset<br>📚 Always learning<br>🔍 Curious about how systems work<br>💡 Driven to grow & create impactful projects</p>
+<p align="left">I’m a cybersecurity student at SLTC Research University 🎓, passionate about exploring how systems work and making them safer 🔐. Curious by nature 🧠, I enjoy solving problems, building projects, and learning new technologies every day 🚀.<br><br>When I’m not diving into code, you’ll find me:<br>🎮 Gaming & exploring game mechanics<br>🎨 Designing clean interfaces with HTML & CSS<br>☕ Experimenting with Java & databases<br><br>Skills & Extras:<br>🎮 Game exploration & mechanics<br>🔐 Cybersecurity & Ethical Hacking<br>☕ Java Programming<br>🗄️ Databases (MySQL, SQL)<br>🎨 Web Design (HTML & CSS)<br>🛠️ Git & GitHub<br>💻 Problem-Solving & Project Building</p>
 
 ###
 
-<h2 align="left">I Skilled with</h2>
+<h2 align="left">Tolls and Softwares I skilled :</h2>
 
 ###
 
@@ -62,12 +52,6 @@
 
 ###
 
- ![Snake animation](https://github.com/MrGHOStLK/MrGHOStLK/blob/main/.github/workflows/snake.svg)
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=2DD4BF"  />
-</div>
+<img src="https://raw.githubusercontent.com/Maleesha-Hirumal/Maleesha-Hirumal/output/snake.svg" alt="Snake animation" />
 
 ###
